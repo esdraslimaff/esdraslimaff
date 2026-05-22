@@ -1,10 +1,10 @@
-# Olá! Eu sou Antonio Esdras Lima 👋
+# Olá! Eu sou Esdras Lima 👋
 
 💻 Desenvolvedor Back-End .NET com foco em APIs REST, Microsserviços e Arquitetura de Software.
 
 🚀 Atualmente atuando no desenvolvimento e manutenção de sistemas Web utilizando .NET, Angular e SQL Server em ambiente Scrum.
 
-Tenho experiência com:
+## 🛠️ Tecnologias e Ferramentas
 
 * C#
 * ASP.NET Core
@@ -15,13 +15,14 @@ Tenho experiência com:
 * Docker
 * Angular
 * React
+* Blazor
 * Azure DevOps
 * Grafana
 * Postman
 * Apidog
 * ngrok
 
-Além disso, participei de iniciativas envolvendo IA Generativa a produto empresarial.
+Além disso, participei de iniciativas envolvendo IA Generativa aplicada ao produto da empresa.
 
 ---
 
@@ -56,6 +57,7 @@ Sistema Full Stack (.NET 8 + React/TypeScript) para controle financeiro residenc
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -64,10 +66,9 @@ Sistema Full Stack (.NET 8 + React/TypeScript) para controle financeiro residenc
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdraslimaff&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
-
 ---
 
 ## 📫 Contato
 
-* LinkedIn: linkedin.com/in/esdrasdev
+* LinkedIn: https://linkedin.com/in/esdrasdev
 * Email: [esdraslimadev@gmail.com](mailto:esdraslimadev@gmail.com)
