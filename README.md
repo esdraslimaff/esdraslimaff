@@ -22,7 +22,7 @@
 * Apidog
 * ngrok
 
-Além disso, participei de iniciativas envolvendo IA Generativa aplicada ao produto da empresa.
+Além disso, participei de iniciativas envolvendo IA Generativa aplicada a produto empresarial.
 
 ---
 
